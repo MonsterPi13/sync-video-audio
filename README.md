@@ -10,17 +10,7 @@ A Next.js application that demonstrates seamless video and audio synchronization
 
 ## 🚀 Getting Started
 
-First, download the sample videos:
-
-```bash
-# Using shell script
-./download-videos.sh
-
-# OR using Node.js
-node download-sample-videos.js
-```
-
-Then, run the development server:
+Run the development server:
 
 ```bash
 npm run dev
